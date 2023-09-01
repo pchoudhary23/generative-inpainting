@@ -1,8 +1,10 @@
-# Generative Inpainting for CS 7643 - Deep Learning Class
+# Survey of Generative Inpainting task
+
+This project was completed as part of CS7643: Deep Learning Coursework at Georgia Tech. It was completed while working with Kien Tran, Manoj Parmar, and Tanmay Kinjale.
 
 A PyTorch reimplementation for the paper [Generative Image Inpainting with Contextual Attention](https://arxiv.org/abs/1801.07892) according to the author's [TensorFlow implementation](https://github.com/JiahuiYu/generative_inpainting).
 
-Final report on methodology and experiments is available [here](https://manoj98.github.io/generative-inpainting/CS_7643_DL_Project_FinalReport___Generative_Inpainting.pdf).
+Final report on methodology and experiments is available here: [Link](https://github.com/pchoudhary23/generative-inpainting/blob/main/CS_7643_DL_Project_FinalReport___Generative_Inpainting.pdf)
 
 ## Prerequisites
 This code has been tested on Ubuntu 14.04 and the following are the main components that need to be installed:
